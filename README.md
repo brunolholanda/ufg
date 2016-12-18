@@ -1,4 +1,4 @@
-# ufg
+# Read me!
 
 Este material contém todas as informações úteis para os cursos que ministro.
 
